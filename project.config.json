@@ -1,0 +1,13 @@
+{
+  "description": "这就办智慧后勤v2",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wxfb71758f0f043c02",
+  "projectname": "zjbapp_v2",
+  "miniprogramRoot": "./dist"
+}
